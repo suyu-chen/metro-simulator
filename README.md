@@ -1,5 +1,5 @@
 # metro-simulator
-A subway simulation game. Core functionality works but not everything is finished.
+A subway simulation game made for a computer science class project
 
 ![Game](images/game.png)
  
